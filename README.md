@@ -1,62 +1,58 @@
-### Hi there, I'm Jatin! 👋
+<h2 align="left">Hi 👋! I'm Jatin, a Generative AI Engineer and Full-Stack Developer from India.</h2>
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Generative AI Engineer** with expertise in **Python, Machine Learning, Web Development, and AI**. I spend my time building cutting-edge AI solutions, full-stack web applications, and exploring the latest tech innovations. 🚀
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin123123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin123123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🚀 About Me
+###
 
-- 🎓 **BCA Student** | Studying **Computer Applications**
-- 💻 **Full-Stack Developer** | MERN Stack & Next.js
-- 🤖 **Generative AI Engineer** | Exploring AI & ML
-- 📌 **Machine Learning Enthusiast** | Deep Learning, Neural Networks
-- 🔧 **Tech Stack** | Python, Express.js, Next.js, Mongoose, and more
-- 🔥 **Working Hard** | **10-12 hours/day** to master AI & Web Dev
-- 🎯 **Goal** | Become an AI Engineer in **6 months**
-- 📚 **Python Certified** ✅
-- 🖥 **Laptop** | Samsung Galaxy Book 4 | **i3-1315U | 8GB RAM | 500GB SSD**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+### Tech Stack & Skills
 
-### 🌟 My Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
-#### **🚀 Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Socials
 
-#### **🛠 Tools & Platforms**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="left">
+  <a href="https://www.linkedin.com/in/jatin123123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
+  </a>
+  <a href="mailto:jatin123123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/jatin123123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
+  </a>
+</div>
 
----
+### GitHub Activity
 
-### 📈 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatin123123/jatin123123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatin123123/jatin123123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jatin123123/jatin123123/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin&show_icons=true&theme=radical" alt="Jatin's GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin&theme=radical" alt="Jatin's Streak Stats">
-</p>
-
----
-
-### 🕹️ Fun Stuff: Snake Game 🎮
-
-![Snake Game](https://github.com/Jatin/Jatin/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jatin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://jatin.dev/)
-
----
-
-💡 _"The best way to predict the future is to create it."_
+###
